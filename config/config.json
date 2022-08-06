@@ -9,7 +9,7 @@
   "NFT_NAME": "Thins",
   "SYMBOL": "Thins",
   "MAX_SUPPLY": 10000,
-  "DISPLAY_COST": 0.01,
+  "DISPLAY_COST": 0,
   "freetokens":2,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 10,
